@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I'm a Full-Stack Web Developer in Education.
+
+🌱 I'm currently learning...
+- HTML
+- CSS
+- JavaScript
+- React
+- Express.js
+- MongoDB
+
+⌨️ Languages I used before...
+- R
+- php
+- MySQL
+- LaTeX
+- RegExp
+
+
 <!--
 **gunnar-miklis/gunnar-miklis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
