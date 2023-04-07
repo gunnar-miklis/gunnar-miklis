@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer in Education.
 
-## 🌱 I'm currently learning...
+### 🌱 I'm currently learning...
 - HTML
 - CSS
 - JavaScript
@@ -10,7 +10,7 @@ I'm a Full-Stack Web Developer in Education.
 - Express.js
 - MongoDB
 
-## ⌨️ Languages I used before...
+### ⌨️ Languages I used before...
 - R
 - php
 - MySQL
