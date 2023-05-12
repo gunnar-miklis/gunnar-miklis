@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
 </div>  
 
-### <div align="center">I'm Gunnar, a full-stack developer 👨‍💻 in education 🚀</div>  
+### <div align="center">I'm Gunnar, a full-stack developer 👨‍💻</div>  
 <div align="center">🌱 I’m currently learning at Ironhack's Web Development Bootcamp</div>  
 <div align="center">🎯 The final goal is to develop a full-stack MERN</div>  
   
