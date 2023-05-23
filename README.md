@@ -8,7 +8,7 @@
 <div align="center">🚀 Curious, always looking for new opportunities.</div>
 <div align="center">🌱 Love to constantly reinvent myself, grow and learn as a person.</div>
 <div align="center">🔍 Looking to bring my attention-to-detail to minimalistic and visually appealing web applications.</div>  
-<div align="center"><h5>⬇️ check out my recent project below ⬇️</h5></div>
+<div align="center"><h5>⬇️ check out my recent project below, in the pinned section ⬇️</h5></div>
   
 <br/>  
 <br/>  
