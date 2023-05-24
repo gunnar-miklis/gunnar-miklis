@@ -15,7 +15,7 @@
 <br/>  
 
 ### <div align="center">Get in touch</div> 
-<div align="center">gunnar.miklis@gmail.com</div>  
+<div align="center"><a href="mailto:gunnar.miklis@gmail.com">gunnar.miklis@gmail.com</a></div>  
 
 <br/>
 <br/>  
