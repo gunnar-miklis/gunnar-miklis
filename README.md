@@ -1,6 +1,6 @@
 <br/> 
 
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=090909&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gunnar!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=090909&background=FFFFFF66&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gunnar!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
 #### <div align="center">🧑‍💻 Frontend Developer | MERN Full-Stack</div>
 
