@@ -5,11 +5,28 @@
 #### <div align="center">🧑‍💻 Frontend Web Developer | MERN Full-Stack</div>
 
 <div align="center">
-  🙂 Calm and patient individual with a passion for coding.<br/>
-  🚀 Curious, always looking for new opportunities.<br/>
-  🌱 Love to constantly reinvent myself, grow and learn as a person.<br/>
-  🔍 Looking to bring my attention-to-detail to minimalistic and visually appealing web applications.<br/>
-  <h5>⬇️ check out my recent projects below, in the pinned section ⬇️</h5>
+  
+|   |   |
+|---|---|
+| ✅ | Full-Stack Web Applications |
+| ✅ | Layout, Design and Typography |
+| ✅ | Web Services, Interfaces and APIs |
+| ✅ | Database, CMS and Data-Evaluation |
+| ✅ | Agile Methodologies, Kanban, Scrum |
+| ✅ | Git Version Control, Collaboration |
+  
+<h5>⬇️ check out my recent projects below, in the pinned section ⬇️</h5>
+  
+</div>
+
+<br/> 
+
+#### <div align="center">🙃 About Me</div>
+<div align="center">
+  🧘 Calm and patient individual with a passion for coding.<br/>
+  🌱 Curious, love new challenges to learn and grow from.<br/>
+  🔍 Looking to bring my attention-to-detail to visually appealing web applications.<br/>
+  
 </div>
     
 <br/>  
@@ -44,9 +61,11 @@
 <br/>
 
 <div align="center">
-  
- ![](https://www.codewars.com/users/gunnar.miklis/badges/large?theme=light)
-  
+ <a href="https://www.codewars.com/users/gunnar.miklis" target="_blank">
+   
+   <img src="https://www.codewars.com/users/gunnar.miklis/badges/large?theme=light" alt="Codewars Rank" />
+   
+ </a>
 </div>
     
 <br/>  
