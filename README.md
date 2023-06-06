@@ -15,7 +15,7 @@
 | ✅ | Agile Methodologies, Kanban, Scrum |
 | ✅ | Git Version Control, Collaboration |
   
-<h5>⬇check out my recent projects below, in the pinned section<br/>⬇️</h5>
+<h5>check out my recent projects below, in the pinned section<br/>⬇️</h5>
   
 </div>
 
