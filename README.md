@@ -17,7 +17,7 @@
   
 <h5>
   
-  ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#user-127124823-pinned-items-reorder-form) ⬇️
+  ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#:~:text=Pinned) ⬇️
   
 </h5>
   
