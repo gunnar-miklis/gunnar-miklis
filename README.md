@@ -8,7 +8,7 @@
   
 |   |   |
 |---|---|
-| ✅ | Full-Stack Web Applications |
+| ✅ | MERN Full-Stack SPA Web Applications |
 | ✅ | Layout, Design and Typography |
 | ✅ | Web Services, Interfaces and APIs |
 | ✅ | Database, CMS and Data-Evaluation |
