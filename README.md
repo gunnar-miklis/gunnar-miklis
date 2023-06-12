@@ -31,6 +31,9 @@
 <br/>
 <br/> 
 <br/> 
+<br/> 
+<br/> 
+<br/> 
 <br/>
 
 #### <div align="center">🙃 About Me</div>
@@ -48,6 +51,8 @@
 <div align="center"><a href="mailto:gunnar.miklis@gmail.com">gunnar.miklis@gmail.com</a></div>  
 
 <br/>
+<br/> 
+<br/> 
 <br/> 
 <br/>  
 <br/>  
@@ -89,7 +94,9 @@
 </div>
  
 <br/>
-<br/>
+<br/> 
+<br/> 
+<br/> 
 <br/> 
 <br/>
 <br/>
@@ -114,4 +121,7 @@
 </div>
 </div>
 
-<br/>
+<br/> 
+<br/> 
+<br/> 
+<br/> 
