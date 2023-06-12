@@ -23,7 +23,7 @@
   
 <h5>
   
-  ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#:~:text=Pinned) ⬇️
+  ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#-with-) ⬇️
   
 </h5>
 </div>
