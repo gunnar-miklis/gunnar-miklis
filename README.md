@@ -15,15 +15,17 @@
 | ✅ | Agile Methodologies, Kanban, Scrum |
 | ✅ | Git Version Control, Collaboration |
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnar-miklis&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
+  
 <h5>
   
   ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#:~:text=Pinned) ⬇️
   
 </h5>
-  
 </div>
 
 <br/> 
+<br/>
 
 #### <div align="center">🙃 About Me</div>
 <div align="center">
@@ -34,6 +36,7 @@
 </div>
     
 <br/>  
+<br/>
 
 ### <div align="center">Get in touch</div> 
 <div align="center"><a href="mailto:gunnar.miklis@gmail.com">gunnar.miklis@gmail.com</a></div>  
@@ -65,17 +68,21 @@
 <br/>
 
 <div align="center">
- <a href="https://www.codewars.com/users/gunnar.miklis" target="_blank">
+  <a href="https://www.codewars.com/users/gunnar.miklis" target="_blank">
    
    <img src="https://www.codewars.com/users/gunnar.miklis/badges/large?theme=light" alt="Codewars Rank" />
    
- </a>
+  </a>
+  <br/>
+  <br/>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gunnar-miklis&repo=codewars-katas&theme=swift&hide_border=true)](https://github.com/gunnar-miklis/codewars-katas)
+  
 </div>
-    
-<br/>  
+ 
 <br/>
 <br/>
-<br/> 
+<br/>
 
 <div align="center">
 <div>
@@ -92,7 +99,7 @@
 <div>
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunnar-miklis&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunnar-miklis&theme=swift&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunnar-miklis&theme=swift)
     
 </div>
 </div>
