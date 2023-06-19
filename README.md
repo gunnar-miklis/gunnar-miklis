@@ -31,9 +31,9 @@
     <td><div align="center"><img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" width="250px" /></div></td>
   </tr>
   <tr>
-    <td><sub>Develop a Browser Game using Frontend Technologies. Learn to use basic concepts like OOP.</sub></td>
-    <td><sub>Collaborative Development of a Web Application. Introduction to Backend Technologies and collaborative Version Control.</sub></td>
-    <td><sub>MERN Full-Stack SPA Web Application and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development.</sub></td
+    <td><sup>1. Develop a Browser Game using Frontend Technologies. Learn to use basic concepts like OOP.</sup></td>
+    <td><sup>2. Collaborative Development of a Web Application. Introduction to Backend Technologies and collaborative Version Control.</sup></td>
+    <td><sup>3. MERN Full-Stack SPA Web Application and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development.</sup></td
   </tr>
 </table>
 <h5>
