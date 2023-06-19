@@ -21,6 +21,16 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnar-miklis&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
   
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <a href="https://github.com/gunnar-miklis/app-sleepminder"><td><img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" width="250px" /></td></a>
+    <a href="https://github.com/gunnar-miklis/wait-that-level-again"><td><img src="https://raw.githubusercontent.com/gunnar-miklis/wait-that-level-again/main/Screenshot.png" width="250px" /></td></a>
+    <a href="https://github.com/gunnar-miklis/workout-tracker"><td><img src="https://raw.githubusercontent.com/gunnar-miklis/workout-tracker/main/workout-traker.png" width="250px" /></td></a>
+  </tr>
+</table>
 <h5>
   
   ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#-with-) ⬇️
