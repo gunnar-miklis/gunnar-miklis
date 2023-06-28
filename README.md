@@ -4,7 +4,7 @@
 
 <br/> 
 
-#### <div align="center">🧑‍💻 Frontend Web Developer  |  MERN Full-Stack</div>
+#### <div align="center">🧑‍💻 Full-Stack Web Developer | ES6+ | MERN Stack</div>
 
 <div align="center">
   
