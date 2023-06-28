@@ -4,13 +4,13 @@
 
 <br/> 
 
-#### <div align="center">🧑‍💻 Full-Stack Web Developer | ES6+ | MERN Stack</div>
+#### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 
 <div align="center">
   
 |   |   |
 |---|---|
-| ✅ | MERN Full-Stack SPA Web Applications |
+| ✅ | Single Page Web Applications |
 | ✅ | Layout, Design and Typography |
 | ✅ | Web Services, Interfaces and APIs |
 | ✅ | Database, CMS and Data-Evaluation |
