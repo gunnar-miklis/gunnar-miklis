@@ -104,7 +104,7 @@
   <br/>
   <br/>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gunnar-miklis&repo=codewars-katas&theme=swift&hide_border=true)](https://github.com/gunnar-miklis/codewars-katas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gunnar-miklis&repo=coding-challenges&theme=swift&hide_border=true)](https://github.com/gunnar-miklis/coding-challenges)
   
 </div>
  
