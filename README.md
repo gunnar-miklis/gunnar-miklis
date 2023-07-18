@@ -26,14 +26,38 @@
 <div align="center">
 <table>
   <tr>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/gunnar-miklis/wait-that-level-again/main/Screenshot.png" width="250px" /></div></td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/gunnar-miklis/workout-tracker/main/workout-traker.png" width="250px" /></div></td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" width="250px" /></div></td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/wait-that-level-again/main/Screenshot.png" width="250px" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/workout-tracker/main/workout-traker.png" width="250px" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" width="250px" />
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><sup>1. Develop a Browser Game using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.</sup></td>
-    <td><sup>2. Collaborative Development of a Web Application. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.</sup></td>
-    <td><sup>3. MERN Full-Stack SPA Web Application and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.</sup></td
+    <td>
+      <sup>1. Develop a <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">Browser Game</a> using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.</sup>
+    </td>
+    <td>
+      <sup>2. Collaborative Development of a <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">Web Application</a>. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.</sup>
+    </td>
+    <td>
+      <sup>3. <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">MERN Full-Stack SPA Web Application</a> and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.</sup>
+    </td
   </tr>
 </table>
 <h5>
