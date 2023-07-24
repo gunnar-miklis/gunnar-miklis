@@ -87,7 +87,7 @@
 <br/>
 
 #### <div align="center">📲 Get in Touch</div> 
-<div align="center"><a href="mailto:gunnar.miklis@gmail.com">Connect+</a></div>  
+<div align="center"><b><a href="mailto:gunnar.miklis@gmail.com">&nbsp;&nbsp;Connect</a></b></div>  
 
 <br/>
 <br/> 
