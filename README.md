@@ -23,8 +23,15 @@
   
 </div>
 
+<br/>
+
 <div align="center">
 <table>
+  <caption>
+    
+### Educational Projects
+  
+  </caption>
   <tr>
     <td>
       <div align="center">
@@ -60,9 +67,55 @@
     </td
   </tr>
 </table>
+
+<br/>
+
+<table>
+  <caption>
+    
+### Practice. Learn. Improve: my personal <a href="https://github.com/gunnar-miklis/frontend-challenges">Frontend Challenges</a>
+  
+  </caption>
+  <tr>
+    <td width="250px">
+      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/summary-component/solutions" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20173324.png" alt="summary-component-pc"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20172458.png" alt="summary-component-phone"/>
+      </a>
+    </td>
+    <td width="320px">
+      <a href="https://github.com/gunnar-miklis/intro-to-material-ui-react" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163617.png" alt="web-platform"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163658.png" alt="web-platform-form"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163734.png" alt="web-platform-stepper"/>
+      </a>
+    </td>
+    <td width="250px">
+      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/tip-calculator/solutions/react-mui" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20210806.png" alt="tip-calculator-pc"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20211235.png" alt="tip-calculator-phone"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sup>4. Summary Component using React + CSS.<br/></sup>
+    </td>
+    <td>
+      <sup>5. Web Platform using React + MUi. <br/>
+        <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">>>Live Demo<<</a></b>
+      </sup>
+    </td>
+    <td>
+      <sup>6. Tip Calculator App using React + MUi. <br/>
+        <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">>>Live Demo<<</a></b>
+      </sup>
+    </td>
+  </tr>
+</table>
 <h5>
   
-  ⬇️ [check out my recent projects below](https://github.com/gunnar-miklis#-with-) ⬇️
+  ⬇️ [check out more of my recent projects below](https://github.com/gunnar-miklis#-with-) ⬇️
   
 </h5>
 </div>
