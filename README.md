@@ -10,12 +10,13 @@
   
 |   |   |
 |---|---|
+| ✅ | HTML, CSS, JS ES6+, TS, MERN Stack |
 | ✅ | Single Page Web Applications |
+| ✅ | RESTful APIs, Interfaces, Web Services |
 | ✅ | Layout, Design and Typography |
-| ✅ | Web Services, Interfaces and APIs |
 | ✅ | Database, CMS and Data-Evaluation |
 | ✅ | Agile Methodologies, Kanban, Scrum |
-| ✅ | Git Version Control, Collaboration |
+| ✅ | Git Version Control, Collaboration (CI) |
 
 <br/> 
   
