@@ -84,7 +84,7 @@
         <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20172458.png" alt="summary-component-phone"/>
       </a>
     </td>
-    <td width="320px">
+    <td width="300px">
       <a href="https://github.com/gunnar-miklis/intro-to-material-ui-react" target="_blank">
         <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163617.png" alt="web-platform"/>
         <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163658.png" alt="web-platform-form"/>
@@ -97,19 +97,30 @@
         <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20211235.png" alt="tip-calculator-phone"/>
       </a>
     </td>
+    <td width="150px">
+      <a href="https://github.com/gunnar-miklis/qr-code-scanner-app#qr-code-ticket-scanner-in-react-native" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-2.png" alt="qr-code-scanner-2"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-1.png" alt="qr-code-scanner-1"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
-      <sup>4. Summary Component using React + CSS.<br/></sup>
+      <sup>4. Summary Component using React + CSS.</sup>
     </td>
     <td>
-      <sup>5. Web Platform using React + MUi. <br/>
-        <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">>>Live Demo<<</a></b>
+      <sup>5. Web Platform using React + MUi.
+        View: <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">Live Demo</a></b>
       </sup>
     </td>
     <td>
-      <sup>6. Tip Calculator App using React + MUi. <br/>
-        <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">>>Live Demo<<</a></b>
+      <sup>6. Tip Calculator App using React + MUi.
+        View: <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">Live Demo</a></b>
+      </sup>
+    </td>
+    <td>
+      <sup>7. QR-Code Ticket Scanner App using React Native.
+        Download: <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">Demo</a></b>
       </sup>
     </td>
   </tr>
