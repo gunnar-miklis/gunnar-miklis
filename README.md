@@ -2,7 +2,7 @@
 
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=090909&background=FFFFFF66&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gunnar!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
-<br/> 
+<br/>
 
 ### <div align="center">🧑‍💻 Full-Stack Web Developer</div>
 
@@ -25,8 +25,102 @@
 </div>
 
 <br/>
+<br/>
+<br/>
 
 <div align="center">
+
+<table>
+  <caption>
+    
+### Full-Stack
+<sup>Develop a fully functional <b><a href="https://github.com/gunnar-miklis/restful-api-web-app" target="_blank">RESTful API Full-Stack Web Application</a></b> using MERN-Stack (MongoDB, Express, React, Node) and JavaScript as main language, in less than 48-hours.</sup>
+  
+  </caption>
+  <tr>
+    <td width="200px">
+        <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-30%20015604.png" alt="home"/>
+    </td>
+    <td width="200px">
+        <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-29%20222357.png" alt="all-todolists"/>
+    </td>
+    <td width="200px">
+        <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-29%20222455.png" alt="one-todolist"/>
+    </td>
+    <td width="200px">
+        <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-29%20222630.png" alt="one-todolist-delete-confirmation"/>
+    </td>
+    <td width="200px">
+        <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-29%20222545.png" alt="one-todo"/>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
+
+
+<table>
+  <caption>
+    
+### Practice. Learn. Improve: My personal <a href="https://github.com/gunnar-miklis/frontend-challenges">Frontend Challenges</a>
+  
+  </caption>
+  <tr>
+    <td width="250px">
+      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/summary-component/solutions" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20173324.png" alt="summary-component-pc"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20172458.png" alt="summary-component-phone"/>
+      </a>
+    </td>
+    <td width="300px">
+      <a href="https://github.com/gunnar-miklis/intro-to-material-ui-react" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163617.png" alt="web-platform"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163658.png" alt="web-platform-form"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163734.png" alt="web-platform-stepper"/>
+      </a>
+    </td>
+    <td width="250px">
+      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/tip-calculator/solutions/react-mui" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20210806.png" alt="tip-calculator-pc"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20211235.png" alt="tip-calculator-phone"/>
+      </a>
+    </td>
+    <td width="150px">
+      <a href="https://github.com/gunnar-miklis/qr-code-scanner-app#qr-code-ticket-scanner-in-react-native" target="_blank">
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-2.png" alt="qr-code-scanner-2"/>
+        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-1.png" alt="qr-code-scanner-1"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sup>4. Summary Component using React + CSS.</sup>
+    </td>
+    <td>
+      <sup>5. Web Platform using React + MUi.<br/>
+        <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">View Live Demo</a></b>
+      </sup>
+    </td>
+    <td>
+      <sup>6. Tip Calculator App using React + MUi.<br/>
+        <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">View Live Demo</a></b>
+      </sup>
+    </td>
+    <td>
+      <sup>7. QR-Code Ticket Scanner App using React Native.<br/>
+        <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">Download Demo</a></b>
+      </sup>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
+
+
 <table>
   <caption>
     
@@ -71,60 +165,6 @@
 
 <br/>
 
-<table>
-  <caption>
-    
-### Practice. Learn. Improve: my personal <a href="https://github.com/gunnar-miklis/frontend-challenges">Frontend Challenges</a>
-  
-  </caption>
-  <tr>
-    <td width="250px">
-      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/summary-component/solutions" target="_blank">
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20173324.png" alt="summary-component-pc"/>
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/summary-component/solutions/ViteReact/src/assets/demo/Screenshot%202023-07-13%20172458.png" alt="summary-component-phone"/>
-      </a>
-    </td>
-    <td width="300px">
-      <a href="https://github.com/gunnar-miklis/intro-to-material-ui-react" target="_blank">
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163617.png" alt="web-platform"/>
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163658.png" alt="web-platform-form"/>
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/intro-to-material-ui-react/main/screenshots/Screenshot%202023-08-15%20163734.png" alt="web-platform-stepper"/>
-      </a>
-    </td>
-    <td width="250px">
-      <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/tip-calculator/solutions/react-mui" target="_blank">
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20210806.png" alt="tip-calculator-pc"/>
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/frontend-challenges/main/tip-calculator/solutions/react-mui/screenshots/Screenshot%202023-08-27%20211235.png" alt="tip-calculator-phone"/>
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://github.com/gunnar-miklis/qr-code-scanner-app#qr-code-ticket-scanner-in-react-native" target="_blank">
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-2.png" alt="qr-code-scanner-2"/>
-        <img src="https://raw.githubusercontent.com/gunnar-miklis/qr-code-scanner-app/main/assets/demo/2023-09-14-screenshot-1.png" alt="qr-code-scanner-1"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <sup>4. Summary Component using React + CSS.</sup>
-    </td>
-    <td>
-      <sup>5. Web Platform using React + MUi.
-        View: <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">Live Demo</a></b>
-      </sup>
-    </td>
-    <td>
-      <sup>6. Tip Calculator App using React + MUi.
-        View: <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">Live Demo</a></b>
-      </sup>
-    </td>
-    <td>
-      <sup>7. QR-Code Ticket Scanner App using React Native.
-        Download: <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">Demo</a></b>
-      </sup>
-    </td>
-  </tr>
-</table>
 <h5>
   
   ⬇️ [check out more of my recent projects below](https://github.com/gunnar-miklis#-with-) ⬇️
