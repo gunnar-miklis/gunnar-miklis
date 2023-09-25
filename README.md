@@ -35,6 +35,8 @@
     
 ### Full-Stack
 <sup>Develop a fully functional <b><a href="https://github.com/gunnar-miklis/restful-api-web-app" target="_blank">RESTful API Full-Stack Web Application</a></b> using MERN-Stack (MongoDB, Express, React, Node) and JavaScript as main language, in less than 48-hours.</sup>
+<h5><a href="https://main--restful-api-web-app.netlify.app">LIVE DEMO 👀</a></h5>
+
   
   </caption>
   <tr>
@@ -100,17 +102,17 @@
     </td>
     <td>
       <sup>5. Web Platform using React + MUi.<br/>
-        <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">View Live Demo</a></b>
+        <b><a href="https://gunnar-miklis.github.io/intro-to-material-ui-react/" target="_blank">View Live Demo 👀</a></b>
       </sup>
     </td>
     <td>
       <sup>6. Tip Calculator App using React + MUi.<br/>
-        <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">View Live Demo</a></b>
+        <b><a href="https://main--tip-calculator-57d393.netlify.app" target="_blank">View Live Demo 👀</a></b>
       </sup>
     </td>
     <td>
       <sup>7. QR-Code Ticket Scanner App using React Native.<br/>
-        <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">Download Demo</a></b>
+        <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">⬇️ Download Demo Video</a></b>
       </sup>
     </td>
   </tr>
@@ -152,13 +154,22 @@
   </tr>
   <tr>
     <td>
-      <sup>1. Develop a <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">Browser Game</a> using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.</sup>
+      <sup>
+        1. Develop a <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">Browser Game</a> using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.
+        <br/><b><a href="https://gunnar-miklis.github.io/wait-that-level-again" target="_blank">View Live Demo 👀</a></b>
+      </sup>
     </td>
     <td>
-      <sup>2. Collaborative Development of a <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">Web Application</a>. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.</sup>
+      <sup>
+        2. Collaborative Development of a <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">Web Application</a>. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.
+        <br/><b><a href="https://workout-tracker-repcount.cyclic.app" target="_blank">View Live Demo 👀</a></b>
+      </sup>
     </td>
     <td>
-      <sup>3. <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">MERN Full-Stack SPA Web Application</a> and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.</sup>
+      <sup>
+        3. <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">MERN Full-Stack SPA Web Application</a> and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.
+        <br/><b><a href="https://sleepminder.netlify.app/welcome" target="_blank">View Live Demo 👀</a></b>
+      </sup>
     </td
   </tr>
 </table>
