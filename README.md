@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">🧑‍💻 Full-Stack Web Developer</div>
+### <div align="center">🧑‍💻 (Full-Stack) Web Developer</div>
 
 <div align="center">
   
