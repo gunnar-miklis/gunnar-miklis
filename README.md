@@ -4,19 +4,21 @@
 
 <br/>
 
-### <div align="center">🧑‍💻 (Full-Stack) Web Developer</div>
-
 <div align="center">
+
+### 🧑‍💻 JavaScript Web Developer
+
+I develop Web Applications and RESTful APIs.<br/>Whether frontend or backend, as a Full-Stack Web Developer I unify both.<br/>I'm a curious, open-minded and kind individual with a great passion for coding.
   
 |   |   |
 |---|---|
-| ✅ | HTML, CSS, JS ES6+, TS, MERN Stack |
-| ✅ | Single Page Web Applications |
-| ✅ | RESTful APIs, Interfaces, Web Services |
-| ✅ | Layout, Design and Typography |
-| ✅ | Database, CMS and Data-Evaluation |
-| ✅ | Agile Methodologies, Kanban, Scrum |
-| ✅ | Git Version Control, Collaboration (CI) |
+| ✅ | JavaScript ES6+, TypeScript, MERN Stack |
+| ✅ | Single Page Web Applications (ReactJS) |
+| ✅ | Layout, Design and Typography (HTML, CSS) |
+| ✅ | RESTful APIs (ExpressJS) |
+| ✅ | Database (MongoDB, SQL) |
+| ✅ | Agile Methodologies (Kanban, Scrum) |
+| ✅ | Version Control (Git), Collaboration (CI) |
 
 <br/> 
   
@@ -27,18 +29,130 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <div align="center">
+ 
+# Latest Project
+<br/>
+
+### Ticketing App 🎫📲
+App for **validation of event tickets** at the door check-in (scan QR-Code tickets or check-in Box Office tickets).<br/>
+Intentionally built for **offline use**, because the current venue has poor internet coverage.<br/>
+<sub>**not public yet, but version 1.0.0 got already tested recently during a music festival.</sub>
+
+<br/>
+
+**Technologies**: TypeScript, React Native [Expo Go](https://expo.dev/go), SQLite
+
+<br/>
+
+|              | Features  |
+| ------------ | - |
+| **APP**      | • Start Screen.<br/>• App Icon.<br/>• Loading Screen.<br/>• Select an event.<br/>• Light/Dark theme.<br/>• Switch Language (en/de).<br/>• Show prompts before performing operations.<br/>• Toastbar / Info box.<br/>• Always keep screen awake.                                                                  |
+| **Home**     | • Fetch and display current event details.<br/>• Stats: total sales.<br/>• Stats: daily checkins.                                                                                                                                                                                                                |
+| **Check-in** | • Qr-code scanner/camera.<br/>• Request phone camera permissions.<br/>• Validate pre-saled tickets.<br/>• Add box office tickets.<br/>• Counter for checkins.<br/>• Camera can turn on flashlight.                                                                                                               |
+| **Ticket**   | • Offline/Local storage with SQLite.<br/>• Manually trigger sync process with API (upload, download, update, delete).<br/>• Upload recent checkins.<br/>• Download new tickets and Update existing tickets.<br/>• Show ticket status (valid, used, payment pending, etc.) <br/>• Search and filter tickets.<br/> |
+
+<br/>
+
+<table>
+	<tr>
+		<th style="border:1px solid lightgrey">App: Select Event</th>
+		<th style="border:1px solid lightgrey">App: Start Screen</th>
+		<th style="border:1px solid lightgrey">App: Loading Screen</th>
+	</tr>
+	<tr>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbwZ1ixU2nBtm5nSCqxuCPNwz2NdTb23cU0EIJfIu06rfaiUzAu7PAr_7f1dms8yU13iJUWLq0jmPa1Stsr6OysF21QwZe0Qys=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihazrzWhKuG4bAHgiA7wEiLx1vyCf2ZcCs1fvX5K4MqaeqzBoYJ-FO5T7QEMbcZVu4cwpjnuHxebPMPntPvyVX-uNrTLA2o-NSo=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihafGt6N3-D50SZwADZYZibBhX1-LTxQ1GODzzFRw647IvqQr_F8Gwr4lqlj7FcGLilOVB031umtPSah1gqIyuLy1ZF6J7bjjhk=w958-h992-rw-v1'>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th style="border:1px solid lightgrey">Home: Switch Language EN/DE</th>
+		<th style="border:1px solid lightgrey">Home: Light/Dark Mode</th>
+		<th style="border:1px solid lightgrey">Home: Statistics Sales/Checkins</th>
+	</tr>
+	<tr>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbjXb2_hudVK05ylupDrGVm4r7pjOOhi98J4SCYMO6kI3qVp27qbROCPeCGtSYOmwOCWoEFihIw5bh1L4cwDXN7YZHKXbioAA=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/drive-viewer/AKGpihbFZ9AaAZ2d-iTO9NDzn6hFsoko3SGnYBEwwJ_aEPA16MIi0J6pLO5OweWJSejcZUcNujzQuErKF0_dPD_-DCHWQZ8ooz_ig4A=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihb07rZnRT7eTmPzlPFlivQ2igIcX_atsJeMxup6nQOpsXkFJn9DRrEtSuuGzgMhBdTn_HReC0e699B9uVnWJ2Mulh29DX78tMQ=w958-h992-rw-v1'>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th style="border:1px solid lightgrey">Checkin</th>
+		<th style="border:1px solid lightgrey">Checkin: QR-Code</th>
+		<th style="border:1px solid lightgrey">Checkin: Camera Permissions</th>
+	</tr>
+	<tr>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYLEoLNgrKMNm_R-EJwRPsqO2jaIPaszZ3lE6cgDi9MVkI7C5xoUl4KgtszWKQN1MACrHKw2CzzHW-hC272zx7C2p22xhdUq3c=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZg7CdrGSNmW8NCqRFph6ZL5Lcg9ONXkbM1Wc_-FkVIdok6gpT1TXFoU3svrKfhjAJep2r2eAzA3wvIfeO0wNCJA4TTI-K0ig=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='33%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYK9DmVygIZOCmKbmPhBx8HdvVuAHh4LS4hnDlDK3-rlQxbh-LVd6-0kzPxfXyfY3HOKmxAr1ZrCdOq8f9-g3kjwJZ0b59J4_M=w958-h992-rw-v1'>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th style="border:1px solid lightgrey">Tickets: Overview, Manage Data</th>
+		<th style="border:1px solid lightgrey">Tickets: Search and Filter</th>
+		<th style="border:1px solid lightgrey">Tickets: Create or Update</th>
+	</tr>
+	<tr>
+		<td style="border:1px solid lightgrey" width='25%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZlycIsDZcSz1aTOc8hvV0yU2lZ3buary0hoGHIcLwdTLGKtejSNLOtlAh6G0Z71p_pmiuM1ysnDJ9mnZG7d0gYznjuhRy786s=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='25%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZSnz6g_8c0l3AKjrEc0IBBo9qeuHvWcd58IMxASWk2L7WgP0GdvNO5N6pnnkcGCqkO7hRvQyfX4D1S38qSz3z4g6YBsUd_Kw=w958-h992-rw-v1'>
+		</td>
+		<td style="border:1px solid lightgrey" width='25%'>
+			<img src='https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZ7cbIBhGkcQ7aj5bNFXqAuBDAB__moeX6jvU-hxXcMHJFxWgwJUUImQQKvhCisXmohS1ILaXFHelWUrvuo6dhfUV1W5eCTCw=w958-h992-rw-v1'>
+		</td>
+	</tr>
+</table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+# Previous Project
+<br/>
 
 <table>
   <caption>
     
-### Full-Stack
+### Task / Todo / Notes App 📝📲
 <sup>Develop a fully functional <b><a href="https://github.com/gunnar-miklis/restful-api-web-app" target="_blank">RESTful API Full-Stack Web Application</a></b> using MERN-Stack (MongoDB, Express, React, Node) and JavaScript as main language, in less than 48-hours.</sup>
-<h5><a href="https://main--restful-api-web-app.netlify.app">LIVE DEMO 👀</a></h5>
+<br/>
+<br/>
+<b><a href="https://main--restful-api-web-app.netlify.app">View Live Demo 👀</a></b>
 
-  
   </caption>
+  
   <tr>
     <td width="200px">
         <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-30%20015604.png" alt="home"/>
@@ -56,12 +170,17 @@
         <img src="https://github.com/gunnar-miklis/restful-api-web-app/blob/main/showcase/Screenshot%202023-08-29%20222545.png" alt="one-todo"/>
     </td>
   </tr>
+  
 </table>
 
-
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
+# Practice Projects
+<br/>
 
 <table>
   <caption>
@@ -69,6 +188,7 @@
 ### Practice. Learn. Improve: My personal <a href="https://github.com/gunnar-miklis/frontend-challenges">Frontend Challenges</a>
   
   </caption>
+  
   <tr>
     <td width="250px">
       <a href="https://github.com/gunnar-miklis/frontend-challenges/tree/main/summary-component/solutions" target="_blank">
@@ -96,6 +216,7 @@
       </a>
     </td>
   </tr>
+  
   <tr>
     <td>
       <sup>4. Summary Component using React + CSS.</sup>
@@ -112,66 +233,71 @@
     </td>
     <td>
       <sup>7. QR-Code Ticket Scanner App using React Native.<br/>
-        <b><a href="https://github.com/gunnar-miklis/qr-code-scanner-app/raw/main/assets/demo/demo.mp4" target="_blank">⬇️ Download Demo Video</a></b>
       </sup>
     </td>
   </tr>
+  
 </table>
 
-
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
+# Educational Projects
+<br/>
 
 <table>
-  <caption>
-    
-### Educational Projects
   
+  <caption>
+
+### Projects I developed during my qualification as full-stack web developer.
+
   </caption>
+  
   <tr>
+    <td>
+        1.<br/><br/>Develop a <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">Browser Game</a> using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.
+        <br/><br/><b><a href="https://gunnar-miklis.github.io/wait-that-level-again" target="_blank">View Live Demo 👀</a></b>
+    </td>
     <td>
       <div align="center">
         <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
-          <img src="https://raw.githubusercontent.com/gunnar-miklis/wait-that-level-again/main/Screenshot.png" width="250px" />
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/wait-that-level-again/main/Screenshot.png" />
         </a>
       </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        2.<br/><br/>Collaborative Development of a <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">Web Application</a>. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.
+        <br/><br/><b><a href="https://workout-tracker-repcount.cyclic.app" target="_blank">View Live Demo 👀</a></b>
     </td>
     <td>
       <div align="center">
         <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">
-          <img src="https://raw.githubusercontent.com/gunnar-miklis/workout-tracker/main/workout-traker.png" width="250px" />
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/workout-tracker/main/workout-traker.png" />
         </a>
       </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+        3.<br/><br/><a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">MERN Full-Stack SPA Web Application</a> and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.
+        <br/><br/><b><a href="https://sleepminder.netlify.app/welcome" target="_blank">View Live Demo 👀</a></b>
     </td>
     <td>
       <div align="center">
         <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">
-          <img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" width="250px" />
+          <img src="https://raw.githubusercontent.com/gunnar-miklis/app-sleepminder/main/SleepMinderPitch.png" alt="app-sleepminder" />
         </a>
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <sup>
-        1. Develop a <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">Browser Game</a> using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.
-        <br/><b><a href="https://gunnar-miklis.github.io/wait-that-level-again" target="_blank">View Live Demo 👀</a></b>
-      </sup>
-    </td>
-    <td>
-      <sup>
-        2. Collaborative Development of a <a href="https://github.com/gunnar-miklis/workout-tracker" target="_blank">Web Application</a>. Introduction to Backend Technologies and collaborative Version Control. Node.js, Express.js, MongoDB, Mongoose, Handlebars.js, Git, GitHub, Session Auth, CRUD.
-        <br/><b><a href="https://workout-tracker-repcount.cyclic.app" target="_blank">View Live Demo 👀</a></b>
-      </sup>
-    </td>
-    <td>
-      <sup>
-        3. <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">MERN Full-Stack SPA Web Application</a> and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.
-        <br/><b><a href="https://sleepminder.netlify.app/welcome" target="_blank">View Live Demo 👀</a></b>
-      </sup>
-    </td
-  </tr>
+  
 </table>
 
 <br/>
@@ -193,17 +319,17 @@
 
 #### <div align="center">🙃 About Me</div>
 <div align="center">
-  🧘 Calm and patient individual with a passion for coding.<br/>
-  🌱 Curious, love new challenges to learn and grow from.<br/>
-  🔍 Looking to bring my attention-to-detail to visually appealing web applications.<br/>
+  🌱 Love new challenges, eager to learn.<br/>
+  🧘 Calm and patient individual, easy to get along.<br/>
+  🔍 Attention-to-detail, aiming to build visually appealing web apps.<br/>
   
 </div>
-    
-<br/>  
+
+<br/>
 <br/>
 
 #### <div align="center">📲 Get in Touch</div> 
-<div align="center"><b><a href="mailto:gunnar.miklis@gmail.com">&nbsp;&nbsp;Connect</a></b></div>  
+<div align="center"><b>&nbsp;&nbsp;<a href="mailto:gunnar.miklis@gmail.com">Connect</a></b></div>  
 
 <br/>
 <br/> 
