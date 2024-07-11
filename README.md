@@ -14,7 +14,7 @@ I develop Web Applications and RESTful APIs.<br/>Whether frontend or backend, as
 |---|---|
 | ✅ | JavaScript ES6+, TypeScript, MERN Stack |
 | ✅ | Single Page Web Applications (ReactJS) |
-| ✅ | Layout, Design and Typography (HTML, CSS) |
+| ✅ | Layout, Design and Typography (HTML, CSS, MUI) |
 | ✅ | RESTful APIs (ExpressJS) |
 | ✅ | Database (MongoDB, SQL) |
 | ✅ | Agile Methodologies (Kanban, Scrum) |
