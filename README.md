@@ -6,19 +6,19 @@
 
 <div align="center">
 
-### 🧑‍💻 JavaScript Web Developer
+### 🧑‍💻 TypeScript Web Developer
 
-I develop Web Applications and RESTful APIs.<br/>Whether frontend or backend, as a Full-Stack Web Developer I unify both.<br/>I'm a curious, open-minded and kind individual with a great passion for coding.
+I develop Single Page Web Applications and RESTful APIs.<br/>Whether frontend or backend, as a Full-Stack Web Developer I unify both.<br/>I'm a curious, open-minded and kind individual with a great passion for coding.
   
 |   |   |
 |---|---|
-| ✅ | JavaScript ES6+, TypeScript, MERN Stack |
-| ✅ | Single Page Web Applications (ReactJS) |
-| ✅ | Layout, Design and Typography (HTML, CSS, MUI) |
-| ✅ | RESTful APIs (ExpressJS) |
-| ✅ | Database (MongoDB, SQL) |
+| ✅ | TypeScript, JavaScript (ES6+), Node.js |
+| ✅ | Single Page Web Applications (SPA), CSR (React, Next.js) |
+| ✅ | RESTful APIs, SSR (Express, Next.js) |
+| ✅ | Databases and ODM/ORM (MongoDB, SQL, Mongoose, Prisma) |
+| ✅ | Version Control (Git), Collaboration (CI/CD), Unit Testing |
+| ✅ | Layout, Design, Typography, Accessibility (HTML, CSS, Lighthouse, Material-UI) |
 | ✅ | Agile Methodologies (Kanban, Scrum) |
-| ✅ | Version Control (Git), Collaboration (CI) |
 
 <br/> 
   
@@ -319,9 +319,9 @@ Intentionally built for **offline use**, because the current venue has poor inte
 
 #### <div align="center">🙃 About Me</div>
 <div align="center">
-  🌱 Love new challenges, eager to learn.<br/>
+  🌱 Loves new challenges, eager to learn.<br/>
   🧘 Calm and patient individual, easy to get along.<br/>
-  🔍 Attention-to-detail, aiming to build visually appealing web apps.<br/>
+  🔍 Attention-to-detail, conscientious and diligent, high quality delivery.<br/>
   
 </div>
 
@@ -338,25 +338,45 @@ Intentionally built for **offline use**, because the current venue has poor inte
 <br/>  
 <br/>  
 <br/> 
-<br/>  
-
-<div align="center"><img src="./mern.png" align="center" height="" width="380" /></div>
-
+<br/> 
 <br/>
 
-<div align="center">     
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="55" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" /></a>
-  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="35" /></a>  
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-  <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="35" /></a>  
-  <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="35" /></a>    
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a> 
-  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a> 
-</div> 
+<div align="center">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+</div>
+<br />
+<div align="center"> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="65" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px; padding-top: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; padding-top: 7px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  
+</div>
+<br />
+<div align="center"> 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="65" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="63" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="65" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+</div>
+<br />
+<div align="center"> 
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="43" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="37" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="43" /></a>  
+</div>
+<div align="center"> 
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px; padding-top: 5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="40" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="33" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="33" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px; padding-top: 20px;" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+</div>
 
 <br/>
 <br/>
