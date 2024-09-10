@@ -121,8 +121,8 @@
   <div>
     <h3>Spotify Playlist Assistant 🎧🎵📲</h3>
     <p>
-      Spotify Playlist Assistant is a simple interface that provides methods to interact with the
-      Spotify API.<br />
+      <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant" target="_blank">Spotify Playlist Assistant</a> 
+      is a simple interface that provides methods to interact with the Spotify API.<br />
       It allows users to fetch playlists and their tracks, apply filters to refine the tracklist,
       and<br />
       create new playlists based on the selected criteria.
@@ -139,10 +139,12 @@
   <table>
     <tr>
       <td width="50%">
-        <img
-          src="https://raw.githubusercontent.com/gunnar-miklis/spotify-playlist-assistant/main/public/screenshot.webp"
-          alt="Spotify Playlist Assistant"
-        />
+        <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant" target="_blank">
+          <img
+            src="https://raw.githubusercontent.com/gunnar-miklis/spotify-playlist-assistant/main/public/screenshot.webp"
+            alt="Spotify Playlist Assistant"
+          />
+        </a>
       </td>
     </tr>
   </table>
