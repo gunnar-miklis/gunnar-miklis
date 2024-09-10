@@ -422,7 +422,7 @@
 
   <div>
     <h3>
-      Part of my practice projects. Re-create frontend components.
+      Re-create frontend components
     </h3>
     <p>
       Layout and Design Frontend Components using: HTML, CSS, React, React Native, Bootstrap, Material Ui, JavaScript, DOM Manipulation, JSON, etc.
@@ -543,25 +543,49 @@
   <table>
     <tr>
       <td width="40%">
-        1.
+        10.
         <br /><br />
-        Develop a
-        <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
-          Browser Game
-        </a>
-        using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.
+        Integrate a relational SQL Database and an OAuth Authentication in Next.js
+        <a href="https://github.com/gunnar-miklis/cim-next-db" target="_blank">Full-Stack SSR/CSR Application</a>. 
+        TypeScript, Next.js, Prisma ORM, Vercel PostgreSQL, Next-auth / Auth.js.
         <br /><br />
         <b>
-          <a href="https://gunnar-miklis.github.io/wait-that-level-again" target="_blank">
+          <a href="https://cim-next-db.vercel.app" target="_blank">
           View Live Demo 👀</a>
         </b>
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
+          <a href="https://github.com/gunnar-miklis/cim-next-db" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/gunnar-miklis/portfolio/main/src/assets/that-level-again.webp"
-              alt="Wait That Level Again?"
+              src="https://res.cloudinary.com/dyrcsywk9/image/upload/v1725998093/cim-next-db-home-phone.webp"
+              alt="Next.js Full-Stack Application"
+              width="50%"
+            />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%">
+        3.
+        <br /><br />
+        <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank"
+          >MERN Full-Stack SPA Web Application</a
+        >
+        and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.
+        <br /><br />
+        <b>
+          <a href="https://sleepminder.netlify.app/welcome" target="_blank">
+          View Live Demo 👀</a>
+        </b>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/gunnar-miklis/portfolio/main/src/assets/sleepminder.webp"
+              alt="Sleepminder App"
             />
           </a>
         </div>
@@ -595,24 +619,25 @@
     </tr>
     <tr>
       <td width="40%">
-        3.
+        1.
         <br /><br />
-        <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank"
-          >MERN Full-Stack SPA Web Application</a
-        >
-        and Cross-Cohort Collaboration: Data Analytics → UX/UI Design → Web Development. MongoDB, Express.js, React.js, Node.js, Axios, Chart.js, JWT Auth, REST.
+        Develop a
+        <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
+          Browser Game
+        </a>
+        using Frontend Technologies. Learn to use basic concepts. JavaScript, HTML, CSS, Canvas, P5.js, DOM, OOP, DRY, KISS, YAGNI, Linting.
         <br /><br />
         <b>
-          <a href="https://sleepminder.netlify.app/welcome" target="_blank">
+          <a href="https://gunnar-miklis.github.io/wait-that-level-again" target="_blank">
           View Live Demo 👀</a>
         </b>
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/gunnar-miklis/app-sleepminder" target="_blank">
+          <a href="https://github.com/gunnar-miklis/wait-that-level-again" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/gunnar-miklis/portfolio/main/src/assets/sleepminder.webp"
-              alt="Sleepminder App"
+              src="https://raw.githubusercontent.com/gunnar-miklis/portfolio/main/src/assets/that-level-again.webp"
+              alt="Wait That Level Again?"
             />
           </a>
         </div>
