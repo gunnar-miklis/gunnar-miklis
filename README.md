@@ -121,7 +121,7 @@
   <div>
     <h3>Spotify Playlist Assistant 🎧🎵📲</h3>
     <p>
-      <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant" target="_blank"
+      <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant-v0" target="_blank"
         >Spotify Playlist Assistant</a
       >
       is a simple interface that provides methods to interact with the Spotify API.<br />
@@ -142,10 +142,10 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant" target="_blank">
+        <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant-v0" target="_blank">
           <img
-            src="https://raw.githubusercontent.com/gunnar-miklis/spotify-playlist-assistant/main/public/screenshot.webp"
-            alt="Spotify Playlist Assistant"
+            src="https://res.cloudinary.com/dyrcsywk9/image/upload/v1728660476/spotify-playlist-assistant-v0-laptop.webp"
+            alt="Spotify Playlist Assistant (Prototype)"
           />
         </a>
       </td>
