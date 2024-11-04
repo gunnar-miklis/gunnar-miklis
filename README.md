@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>✅</td>
-      <td>Databases and ODM/ORM (MongoDB, SQL, Mongoose, Prisma)</td>
+      <td>Databases and ODM/ORM (MongoDB, SQLite, Mongoose, Prisma)</td>
     </tr>
     <tr>
       <td>✅</td>
@@ -119,21 +119,20 @@
   <br />
 
   <div>
-    <h3>Spotify Playlist Assistant 🎧🎵📲</h3>
+    <h3>Playlist Editor (for Spotify) 🎧🎵📲</h3>
     <p>
-      <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant-v0" target="_blank"
-        >Spotify Playlist Assistant</a
+      <a href="https://github.com/gunnar-miklis/spotify-playlist-editor" target="_blank"
+        >Playlist Editor (for Spotify)</a
       >
-      is a simple interface that provides methods to interact with the Spotify API.<br />
-      It allows users to fetch playlists and their tracks, apply filters to refine the tracklist,
-      and<br />
-      create new playlists based on the selected criteria.
+      is a simple tool to <b>edit and manage playlists</b>, utilizing the Spotify API. 
+      Users can filter, sort, randomize track order and create new playlists. 
+      The interface offers a light and a dark theme, and offers responsiveness across devices.
       <br />
     </p>
-    <p><b>Technologies</b>: TypeScript, Next.js, Next-Auth (Auth.js, OAuth)</p>
+    <p><b>Technologies</b>: TypeScript, Next.js, Next-Auth (OAuth with Auth.js)</p>
     <br />
     <p>
-      <b><a href="https://spotify-playlist-assistant.vercel.app">View Live Demo 👀</a></b>
+      <b><a href="https://playlist-editor-for-spotify.vercel.app/">View Live Demo 👀</a></b>
     </p>
   </div>
 
@@ -142,10 +141,10 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/gunnar-miklis/spotify-playlist-assistant-v0" target="_blank">
+        <a href="https://github.com/gunnar-miklis/spotify-playlist-editor" target="_blank">
           <img
-            src="https://res.cloudinary.com/dyrcsywk9/image/upload/v1728660476/spotify-playlist-assistant-v0-laptop.webp"
-            alt="Spotify Playlist Assistant (Prototype)"
+            src="https://res.cloudinary.com/dyrcsywk9/image/upload/v1729355211/playlist-editor-for-spotify-laptop.webp"
+            alt="Playlist Editor (for Spotify)"
           />
         </a>
       </td>
